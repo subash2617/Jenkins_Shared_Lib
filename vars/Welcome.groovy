@@ -1,3 +1,3 @@
-def call (name){
-  echo "hi ${name}, how are you?"
+def call (def usernameInputvalue){
+  echo "hi ${usernameInputvalue}, how are you?"
 }
